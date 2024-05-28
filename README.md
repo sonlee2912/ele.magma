@@ -1,0 +1,2 @@
+# ele.magma
+elecmagmabounty
